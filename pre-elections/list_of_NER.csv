@@ -72,7 +72,7 @@ egaleo,8,yes,Egaleo,Αιγάλεω
 lesvos,8,yes,Lesvos,Λέσβος
 left,7,yes,Left,Αριστερά
 gov.gr,7,yes,Gov.gr,Gov.gr
-i,7,yes,I,I
+i,7,no,I,I
 tourism,7,yes,Tourism,Τουρισμός
 2022,7,yes,2022,2022
 gdp,7,yes,GDP,ΑΕΠ
@@ -112,7 +112,7 @@ komotini,5,yes,Komotini,Κομοτηνή
 european central bank,5,yes,European Central Bank,Ευρωπαϊκή Κεντρική Τράπεζα
 piraeus,5,yes,Piraeus,Πειραιάς
 berlin,5,yes,Berlin,Βερολίνο
-ppc,5,yes,Ppc,Ppc
+ppc,5,yes,PPC,ΔΕΗ
 androulakis,5,yes,Androulakis,Ανδρουλάκης
 europeans,5,yes,Europeans,Ευρωπαίοι
 epirus,5,yes,Epirus,Ήπειρος
@@ -180,7 +180,7 @@ drama,3,yes,Drama,Δράμα
 july 2019,3,yes,July 2019,Ιούλιος 2019
 islands,3,yes,Islands,Νησιά
 european parliament,3,yes,European Parliament,Ευρωπαϊκό Κοινοβούλιο
-rafale,3,yes,Rafale,Rafale
+rafale,3,yes,Rafale,Ραφάλ
 2025,3,yes,2025,2025
 greek citizen,3,yes,Greek Citizen,Έλληνας Πολίτης
 region,3,yes,Region,Περιοχή
@@ -191,7 +191,7 @@ public sector,3,yes,Public Sector,Δημόσιος Τομέας
 capital,3,yes,Capital,Κεφάλαιο
 balkans,3,yes,Balkans,Βαλκάνια
 investment grade,3,yes,Investment Grade,Επενδυτική Βαθμίδα
-attica,3,yes,Attica,Σοφίτα
+attica,3,yes,Attica,Αττική
 agia varvara,3,yes,Agia Varvara,Αγία Βαρβάρα
 peristeri,3,yes,Peristeri,Περιστέρι
 university,3,yes,University,Πανεπιστήμιο
@@ -251,7 +251,7 @@ private sector,2,yes,Private Sector,Ιδιωτικός Τομέας
 wages,2,yes,Wages,Μισθοί
 wage earners,2,yes,Wage Earners,Μισθωτοί
 market pass,2,yes,Market Pass,Πάσο Αγοράς
-ionian road,2,yes,Ionian Road,Ιονικός Δρόμος
+ionian road,2,yes,Ionian Road,Ιόνια Οδός
 health centres,2,yes,Health Centres,Κέντρα Υγείας
 sovereign rights,2,yes,Sovereign Rights,Κυριαρχικά Δικαιώματα
 international law,2,yes,International Law,Διεθνές Δίκαιο
@@ -379,7 +379,7 @@ anti-people's government,2,yes,Anti-people's Government,Αντιλαϊκή Κυ�
 communist,2,yes,Communist,Κομμουνιστικό
 our country,2,yes,Our Country,Η Χώρα Μας
 executives,2,yes,Executives,Στελέχη
-memoranda,2,yes,Memoranda,Υπομνήματα
+memoranda,2,yes,Memoranda,Μνημόνια
 lesbian people,2,yes,Lesbian People,Λεσβίες
 islanders,2,yes,Islanders,Νησιώτες
 vastria,2,yes,Vastria,Vastria
