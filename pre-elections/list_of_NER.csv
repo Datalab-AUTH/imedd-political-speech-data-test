@@ -7,13 +7,13 @@ greek people,106,yes,Greek People,Έλληνες
 tsipras,101,yes,Tsipras,Τσίπρας
 pasok,93,yes,PASOK,ΠΑΣΟΚ
 greek,92,no,Greek,Ελληνικά
-21 may,78,yes,21 May,21 Μαΐου
+21 may,79,yes,21 May,21 Μαΐου
 europe,67,yes,Europe,Ευρώπη
-country,63,no,Country,Χώρα
+country,64,no,Country,Χώρα
 european union,52,yes,European Union,Ευρωπαϊκή Ένωση
 crete,47,yes,Crete,Κρήτη
+kke,35,yes,KKE,ΚΚΕ
 mera25,34,yes,MeRA25,ΜέΡΑ25
-kke,34,yes,KKE,ΚΚΕ
 parliament,33,yes,Parliament,Κοινοβούλιο
 government,32,yes,Government,Κυβέρνηση
 national health system,28,yes,National Health System,Εθνικό Σύστημα Υγείας
@@ -270,6 +270,7 @@ patras,3,yes,Patras,Πάτρα
 2017,3,yes,2017,2017
 menidi,3,yes,Menidi,Μενίδι
 paris,3,yes,Paris,Παρίσι
+anti-people's government,3,yes,Anti-people's Government,Αντιλαϊκή Κυβέρνηση
 our country,3,yes,Our Country,Η Χώρα Μας
 2009,3,yes,2009,2009
 memoranda,3,yes,Memoranda,Μνημόνια
@@ -426,6 +427,7 @@ mega,2,yes,Mega,Mega
 elstat,2,yes,Elstat,Elstat
 lithuania,2,yes,Lithuania,Λιθουανία
 european commission,2,yes,European Commission,Ευρωπαϊκή Επιτροπή
+none,2,yes,nan,Κανένας
 polakis,2,yes,Polakis,Πολάκης
 greek-turkish issues,2,yes,Greek-turkish Issues,Ελληνοτουρκικά Ζητήματα
 god,2,yes,God,Θεός
@@ -452,8 +454,8 @@ adonis georgiades,2,yes,Adonis Georgiades,Αδωνις Γεωργιάδης
 employees,2,yes,Employees,Εργαζόμενοι
 boards of directors,2,yes,Boards Of Directors,Διοικητικά Συμβούλια
 jcp,2,yes,Jcp,Jcp
-anti-people's government,2,yes,Anti-people's Government,Αντιλαϊκή Κυβέρνηση
 communist,2,yes,Communist,Κομμουνιστικό
+lesbos,2,yes,Lesbos,Λέσβος
 executives,2,yes,Executives,Στελέχη
 mps,2,yes,Mps,Mps
 lesbian people,2,yes,Lesbian People,Λεσβίες
@@ -1045,7 +1047,6 @@ central banker,1,yes,Central Banker,Κεντρικός Τραπεζίτης
 fabius panetta,1,yes,Fabius Panetta,Fabius Panetta
 société générale,1,yes,Société Générale,Γενική Κοινωνία
 ceo,1,yes,Ceo,Ceo
-none,1,yes,nan,Κανένας
 3 parties,1,yes,3 Parties,3 Μέρη
 systemic mandate,1,yes,Systemic Mandate,Συστημική Εντολή
 eez,1,yes,Eez,Eez
@@ -1192,7 +1193,6 @@ working-people's world,1,yes,Working-people's World,Ο Κόσμος Των Ερ�
 rizospastis,1,yes,Rizospastis,Rizospastis
 jke,1,yes,Jke,Jke
 global working class,1,yes,Global Working Class,Παγκόσμια Εργατική Τάξη
-lesbos,1,yes,Lesbos,Λέσβος
 the 21st century,1,yes,The 21st Century,Τον 21ο Αιώνα
 supermemorandum,1,yes,Supermemorandum,Supermemorandum
 eu recovery fund,1,yes,Eu Recovery Fund,Ταμείο Ανάκαμψης Της Εε
@@ -1246,6 +1246,7 @@ stavros,1,yes,Stavros,Stavros
 last summer,1,yes,Last Summer,Το Περασμένο Καλοκαίρι
 may 10,1,yes,May 10,Μαΐου 10
 all student first force,1,yes,All Student First Force,Όλοι Οι Φοιτητές Πρώτη Δύναμη
+21st century,1,yes,21st Century,21ος Αιώνας
 transparency authority,1,yes,Transparency Authority,Αρχή Διαφάνειας
 717 contract,1,yes,717 Contract,717 Συμβόλαιο
 400 billion,1,yes,400 Billion,400 Δισεκατομμύρια
