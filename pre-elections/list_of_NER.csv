@@ -1,30 +1,30 @@
 NER,frequency,to appear? (yes/no),EN name,EL name
-greece,668,yes,Greece,Ελλάδα
-mitsotakis,502,yes,Mitsotakis,Μητσοτάκης
-new democracy,435,yes,New Democracy,Νέα Δημοκρατία
+greece,673,yes,Greece,Ελλάδα
+mitsotakis,504,yes,Mitsotakis,Μητσοτάκης
+new democracy,437,yes,New Democracy,Νέα Δημοκρατία
 syriza,431,yes,SYRIZA,ΣΥΡΙΖΑ
-greek people,265,yes,Greek People,Έλληνες
+greek people,266,yes,Greek People,Έλληνες
 pasok,248,yes,PASOK,ΠΑΣΟΚ
 tsipras,238,yes,Tsipras,Τσίπρας
 greek,207,no,Greek,Ελληνικά
-21 May,183,yes,21 May,21 Μαΐου
-country,150,no,Country,Χώρα
+21 may,183,yes,21 May,21 Μαΐου
+country,151,no,Country,Χώρα
 kke,138,yes,KKE,ΚΚΕ
 europe,133,yes,Europe,Ευρώπη
 european union,130,yes,European Union,Ευρωπαϊκή Ένωση
 government,90,yes,Government,Κυβέρνηση
 parliament,84,yes,Parliament,Κοινοβούλιο
-national health system,72,yes,National Health System,Εθνικό Σύστημα Υγείας
+national health system,73,yes,National Health System,Εθνικό Σύστημα Υγείας
 prime minister,71,yes,Prime Minister,Πρωθυπουργός
 recovery fund,70,yes,Recovery Fund,Ταμείο Ανάκαμψης
 mera25,66,yes,MeRA25,ΜέΡΑ25
 crete,63,yes,Crete,Κρήτη
+2019,62,yes,2019,2019
 european,61,yes,European,Ευρωπαϊκή
-2019,61,yes,2019,2019
 varoufakis,59,yes,Varoufakis,Βαρουφάκης
 turkey,58,yes,Turkey,Τουρκία
+state,57,yes,State,Κράτος
 friends,56,yes,Friends,Φίλοι
-state,56,yes,State,Κράτος
 euro,55,yes,Euro,Ευρώ
 tempi,51,yes,Tempi,Τέμπη
 evros,45,yes,Evros,Έβρος
@@ -38,8 +38,8 @@ young people,42,yes,Young People,Νέοι Άνθρωποι
 thessaloniki,38,yes,Thessaloniki,Θεσσαλονίκη
 germany,38,yes,Germany,Γερμανία
 citizens,38,yes,Citizens,Πολίτες
+four years,38,yes,Four Years,Τέσσερα Χρόνια
 democratic party,36,yes,Democratic Party,Δημοκρατικό Κόμμα
-four years,36,yes,Four Years,Τέσσερα Χρόνια
 chania,35,yes,Chania,Χανιά
 thessaly,35,yes,Thessaly,Θεσσαλία
 democracy,35,yes,Democracy,Δημοκρατία
@@ -51,9 +51,9 @@ aegean,32,yes,Aegean,Αιγαίο
 nato,31,yes,NATO,ΝΑΤΟ
 middle class,29,yes,Middle Class,Μεσαία Τάξη
 ppc,28,yes,PPC,ΔΕΗ
+brussels,28,yes,Brussels,Βρυξέλλες
 banks,27,yes,Banks,Τράπεζες
 piraeus,27,yes,Piraeus,Πειραιάς
-brussels,27,yes,Brussels,Βρυξέλλες
 latsis,26,yes,Latsis,Λάτσης
 pandemic,25,yes,Pandemic,Πανδημία
 greek society,25,yes,Greek Society,Ελληνική Κοινωνία
@@ -61,13 +61,13 @@ greek society,25,yes,Greek Society,Ελληνική Κοινωνία
 left,24,yes,Left,Αριστερά
 universities,24,yes,Universities,Πανεπιστήμια
 hercules,24,yes,Hercules,Ηρακλής
+sunday,23,yes,Sunday,Κυριακή
 epirus,23,yes,Epirus,Ήπειρος
 thrace,23,yes,Thrace,Θράκη
 patras,23,yes,Patras,Πάτρα
 pensioners,23,yes,Pensioners,Συνταξιούχοι
 vardinoyannis,23,yes,Vardinoyannis,Βαρδινογιάννης
 golden dawn,22,yes,Golden Dawn,Χρυσή Αυγή
-sunday,22,yes,Sunday,Κυριακή
 european central bank,22,yes,European Central Bank,Ευρωπαϊκή Κεντρική Τράπεζα
 2010,21,yes,2010,2010
 karamanlis,21,yes,Karamanlis,Καραμανλής
@@ -76,9 +76,9 @@ france,21,yes,France,Γαλλία
 trikala,21,yes,Trikala,Τρίκαλα
 may day,21,yes,May Day,Πρωτομαγιά
 people,21,no,People,Άνθρωποι
+armed forces,21,yes,Armed Forces,Ένοπλες Δυνάμεις
 portugal,20,yes,Portugal,Πορτογαλία
 rhodes,20,yes,Rhodes,Ρόδος
-armed forces,20,yes,Armed Forces,Ένοπλες Δυνάμεις
 demeter,20,yes,Demeter,Δήμητρα
 spain,19,yes,Spain,Ισπανία
 education,19,yes,Education,Εκπαίδευση
@@ -91,7 +91,9 @@ vat,18,yes,VAT,ΦΠΑ
 justice,18,yes,Justice,Δικαιοσύνη
 greek government,18,yes,Greek Government,Ελληνική Κυβέρνηση
 greek solution,18,yes,Greek Solution,Ελληνική Λύση
+mayor,18,yes,Mayor,Δήμαρχος
 united states,18,yes,United States,Ηνωμένες Πολιτείες
+greek economy,17,yes,Greek Economy,Ελληνική Οικονομία
 bulgaria,17,yes,Bulgaria,Βουλγαρία
 party,17,yes,Party,Κόμμα
 civil servants,17,yes,Civil Servants,Δημόσιοι Υπάλληλοι
@@ -100,11 +102,10 @@ cayman islands,17,yes,Cayman Islands,Νησιά Καϊμάν
 cvc,17,yes,Cvc,Cvc
 mytilineos,17,yes,Mytilineos,Μυτιληναίος
 2027,17,yes,2027,2027
-greek economy,16,yes,Greek Economy,Ελληνική Οικονομία
 region,16,yes,Region,Περιοχή
 supermarket,16,yes,Supermarket,Σούπερ Μάρκετ
 kavala,16,yes,Kavala,Καβάλα
-mayor,16,yes,Mayor,Δήμαρχος
+women,16,yes,Women,Γυναίκες
 volos,16,yes,Volos,Βόλος
 oecd,15,yes,Oecd,ΟΑΣΑ
 european countries,15,yes,European Countries,Ευρωπαϊκές Χώρες
@@ -113,7 +114,6 @@ lamia,15,yes,Lamia,Λαμία
 council of state,15,yes,Council Of State,Συμβούλιο Της Επικρατείας
 berlin,15,yes,Berlin,Βερολίνο
 ppp,15,yes,Ppp,Ppp
-women,15,yes,Women,Γυναίκες
 frankfurt,15,yes,Frankfurt,Φρανκφούρτη
 lesvos,15,yes,Lesvos,Λέσβος
 china,14,yes,China,Κίνα
@@ -157,7 +157,7 @@ macedonia,12,yes,Macedonia,Μακεδονία
 health,12,yes,Health,Υγεία
 eurozone,12,yes,Eurozone,Ευρωζώνη
 thatcher,12,yes,Thatcher,Θάτσερ
-July 2019,12,yes,July 2019,Ιούλιος 2019
+july 2019,12,yes,July 2019,Ιούλιος 2019
 i,11,no,I,I
 energy crisis,11,yes,Energy Crisis,Ενεργειακή Κρίση
 students,11,yes,Students,Φοιτητές
@@ -172,6 +172,7 @@ nurses,11,yes,Nurses,Νοσηλευτές/εύτριες
 greek state,11,yes,Greek State,Ελληνικό Κράτος
 house,11,yes,House,Σπίτι
 chios,11,yes,Chios,Χίος
+10,11,yes,10,10
 public sector,11,yes,Public Sector,Δημόσιος Τομέας
 elefsina,11,yes,Elefsina,Ελευσίνα
 evia,11,yes,Evia,Εύβοια
@@ -190,7 +191,6 @@ schäuble,10,yes,Schäuble,Σόιμπλε
 dodecanese,10,yes,Dodecanese,Δωδεκάνησα
 progressive government,10,yes,Progressive Government,Προοδευτική Κυβέρνηση
 working people,10,yes,Working People,Εργαζόμενοι
-10,10,yes,10,10
 magnesia,10,yes,Magnesia,Μαγνησία
 capitalism,10,yes,Capitalism,Καπιταλισμός
 britain,10,yes,Britain,Βρετανία
@@ -211,7 +211,8 @@ achaia,9,yes,Achaia,Αχαΐα
 700,9,yes,700,700
 hyperfund,9,yes,Hyperfund,Υπερταμείο
 ballot box,9,yes,Ballot Box,Κάλπη
-May 22,9,yes,May 22,22 Μαΐου
+may 22,9,yes,May 22,Μαΐου 22
+attica,9,yes,Attica,Αττική
 us,9,yes,Us,Us
 red loans,9,yes,Red Loans,Κόκκινα Δάνεια
 wehrmacht,9,yes,Wehrmacht,Βέρμαχτ
@@ -236,11 +237,11 @@ municipality,8,yes,Municipality,Δήμος
 tomorrow,8,yes,Tomorrow,Αύριο
 the country,8,yes,The Country,Η Χώρα
 opposition,8,yes,Opposition,Αντιπολίτευση
+european parliament,8,yes,European Parliament,Ευρωπαϊκό Κοινοβούλιο
 electricity,8,yes,Electricity,Ηλεκτρική Ενέργεια
 public universities,8,yes,Public Universities,Δημόσια Πανεπιστήμια
 20,8,yes,20,20
 households,8,yes,Households,Νοικοκυριά
-attica,8,yes,Attica,Αττική
 british,8,yes,British,Βρετανική
 kos,8,yes,Kos,Κως
 1,8,no,1,1
@@ -252,6 +253,7 @@ enfia,8,yes,ENFIA,ΕΝΦΙΑ
 2025,8,yes,2025,2025
 eam,8,yes,ΕΑΜ,ΕΑΜ
 moria,8,yes,Moria,Μόρια
+personal assistant,8,yes,Personal Assistant,Προσωπικός Βοηθός
 rafale,8,yes,Rafale,Ραφάλ
 emergency departments,8,yes,Emergency Departments,Τμήματα Επειγόντων Περιστατικών
 national elections,7,yes,National Elections,Εθνικές Εκλογές
@@ -272,13 +274,13 @@ nsa,7,yes,Nsa,ΕΥΠ
 turkish,7,yes,Turkish,Τουρκικά
 2009,7,yes,2009,2009
 4 years,7,yes,4 Years,4 Χρόνια
-european parliament,7,yes,European Parliament,Ευρωπαϊκό Κοινοβούλιο
 fthiotida,7,yes,Fthiotida,Φθιώτιδα
 contract of change,7,yes,Contract Of Change,Συμβόλαιο Αλλαγής
 post-war period,7,yes,Post-war Period,Μεταπολεμική Περίοδος
 preveza,7,yes,Preveza,Πρέβεζα
 progressive forces,7,yes,Progressive Forces,Προοδευτικές Δυνάμεις
 national bank,7,yes,National Bank,Εθνική Τράπεζα
+families,7,yes,Families,Οικογένειες
 soviet union,7,yes,Soviet Union,Σοβιετική Ένωση
 economy,7,yes,Economy,Οικονομία
 we,7,yes,We,Εμείς
@@ -297,7 +299,6 @@ goldman sachs,7,yes,Goldman Sachs,Goldman Sachs
 compañeras,7,yes,Compañeras,Εταίροι
 jcp,7,yes,Jcp,Jcp
 usa,7,yes,USA,ΗΠΑ
-personal assistant,7,yes,Personal Assistant,Προσωπικός Βοηθός
 west athens,7,yes,West Athens,Δυτική Αθήνα
 kefalonia,7,yes,Kefalonia,Κεφαλονιά
 1981,6,yes,1981,1981
@@ -323,6 +324,7 @@ primary sector,6,yes,Primary Sector,Πρωτογενής Τομέας
 teachers,6,yes,Teachers,Δάσκαλοι
 pyrgos,6,yes,Pyrgos,Πύργος
 2,6,no,2,2
+local government,6,yes,Local Government,Τοπική Αυτοδιοίκηση
 envia,6,no,Envia,Αποστολή
 governments,6,yes,Governments,Κυβερνήσεις
 egypt,6,yes,Egypt,Αίγυπτος
@@ -334,7 +336,6 @@ american,6,yes,American,Αμερικανική
 energy companies,6,yes,Energy Companies,Εταιρείες Ενέργειας
 labour inspectorate,6,yes,Labour Inspectorate,Επιθεώρηση Εργασίας
 7,6,no,7,7
-families,6,yes,Families,Οικογένειες
 pontians,6,yes,Pontians,Πόντιοι
 tripoli,6,yes,Tripoli,Τρίπολη
 development bank,6,yes,Development Bank,Αναπτυξιακή Τράπεζα
@@ -373,13 +374,12 @@ companies,5,yes,Companies,Εταιρείες
 manufacturing,5,yes,Manufacturing,Κατασκευή
 mr. pappas,5,yes,Mr. Pappas,κ. Παππάς
 proportional representation,5,yes,Proportional Representation,Απλή Αναλογική
-22 May,5,yes,22 May,22 Μαΐου
+22 may,5,yes,22 May,22 Μαΐου
 papandreou,5,yes,Papandreou,Παπανδρέου
 culture,5,yes,Culture,Πολιτισμός
 americans,5,yes,Americans,Αμερικανοί
 mps,5,yes,Mps,Μέλη του Κοινοβουλίου
 ptolemaida,5,yes,Ptolemaida,Πτολεμαΐδα
-local government,5,yes,Local Government,Τοπική Αυτοδιοίκηση
 the state,5,yes,The State,Το Κράτος
 group of people,5,yes,Group Of People,Ομάδα Ανθρώπων
 trump,5,yes,Trump,Τραμπ
@@ -424,8 +424,8 @@ airbnb,5,yes,Airbnb,Airbnb
 health centres,5,yes,Health Centres,Κέντρα Υγείας
 eurogroup,5,yes,Eurogroup,Eurogroup
 paris,5,yes,Paris,Παρίσι
-August 2018,5,yes,August 2018,Αύγουστος 2018
-December 2020,5,yes,December 2020,Δεκέμβριος 2020
+august 2018,5,yes,August 2018,Αύγουστος 2018
+december 2020,5,yes,December 2020,Δεκέμβριος 2020
 england,5,yes,England,Αγγλία
 2021,5,yes,2021,2021
 investment grade,5,yes,Investment Grade,Επενδυτική Βαθμίδα
@@ -440,6 +440,7 @@ taxes,5,yes,Taxes,Φόροι
 2024,5,yes,2024,2024
 coast guard,5,yes,Coast Guard,Ακτοφυλακή
 f-16s,5,yes,F-16s,F-16
+mr. regional governor,5,yes,Mr. Regional Governor,Κ. Περιφερειάρχη
 36,5,yes,36,36
 f-35,5,yes,F-35,F-35
 constantine,5,yes,Constantine,Κωνσταντίνος
@@ -481,6 +482,7 @@ harvard,4,yes,Harvard,Χάρβαρντ
 social security funds,4,yes,Social Security Funds,Ταμεία Κοινωνικής Ασφάλισης
 organization,4,yes,Organization,Οργάνωση
 community,4,yes,Community,Κοινότητα
+congress,4,yes,Congress,Συνέδριο
 social justice,4,yes,Social Justice,Κοινωνική Δικαιοσύνη
 anel,4,yes,ANEL,ΑΝΕΛ
 journalists,4,yes,Journalists,Δημοσιογράφοι
@@ -529,6 +531,7 @@ company,4,yes,Company,Εταιρεία
 new york,4,yes,New York,Νέα Υόρκη
 australia,4,yes,Australia,Αυστραλία
 sophia sakorafa,4,yes,Sophia Sakorafa,Σοφία Σακοράφα
+cyclades,4,yes,Cyclades,Κυκλάδες
 ministry of health,4,yes,Ministry Of Health,Υπουργείο Υγείας
 house of representatives,4,yes,House Of Representatives,Βουλή Των Αντιπροσώπων
 new democrats,4,yes,New Democrats,Νεοδημοκράτες
@@ -544,15 +547,18 @@ rizospastis,4,yes,Rizospastis,Ριζοσπάστης
 trade unions,4,yes,Trade Unions,Συνδικάτα
 nazi,4,yes,Nazi,Ναζί
 nd government,4,yes,Nd Government,Κυβέρνηση ΝΔ
+next four years,4,yes,Next Four Years,Τα Επόμενα Τέσσερα Χρόνια
 kne,4,yes,KNE,ΚΝΕ
 navy,4,yes,Navy,Ναυτικό
 e65,4,yes,E65,E65
 thessaloniki metro,4,yes,Thessaloniki Metro,Μετρό Θεσσαλονίκης
+breast cancer,4,yes,Breast Cancer,Καρκίνος Του Μαστού
 national sovereignty,4,yes,National Sovereignty,Εθνική Κυριαρχία
 katrougal,4,yes,Katrougalos,Κατρούγκαλος
 frigates,4,yes,Frigates,Φρεγάτες
 messolonghi,4,yes,Messolonghi,Μεσσολόγγι
 sudan,4,yes,Sudan,Σουδάν
+young democrats,4,yes,Young Democrats,Νέοι Δημοκράτες
 nikaia,4,yes,Nikaia,Νίκαια
 nice,4,yes,Nikaia,Nίκαια
 lixouri,4,yes,Lixouri,Ληξούρι
@@ -569,7 +575,7 @@ pavlos fyssa,3,yes,Pavlos Fyssas,Παύλος Φύσσας
 latin america,3,yes,Latin America,Λατινική Αμερική
 south africa,3,yes,South Africa,Νότια Αφρική
 aegean prespes,3,yes,Aegean Prespes,Αιγαιοπελαγίτικες Πρέσπες
-October 21,3,yes,October 21,21 Οκτωβρίου
+october 21,3,yes,October 21,21 Οκτωβρίου
 nis,3,yes,Nis,ΕΥΠ
 nation,3,yes,Nation,Έθνος
 austria,3,yes,Austria,Αυστρία
@@ -599,7 +605,7 @@ history,3,yes,History,Ιστορία
 smes,3,yes,SMEs,Mικρές Και Μεσαίες Επιχειρήσεις
 2011,3,yes,2011,2011
 high school,3,yes,High School,Γυμνάσιο
-15,3,yes,15,15
+'15,3,yes,'15,'15
 tv,3,yes,Tv,Τηλεόραση
 prison,3,yes,Prison,Φυλακή
 livestock,3,yes,Livestock,Ζωικό Κεφάλαιο
@@ -619,7 +625,6 @@ public school,3,yes,Public School,Δημόσιο Σχολείο
 first home,3,yes,First Home,Πρώτη Κατοικία
 120 instalments,3,yes,120 Instalments,120 Δόσεις
 fire brigade,3,yes,Fire Brigade,Πυροσβεστική Υπηρεσία
-congress,3,yes,Congress,Συνέδριο
 occupation,3,yes,Occupation,Επάγγελμα
 photovoltaics,3,yes,Photovoltaics,Φωτοβολταϊκά
 years,3,yes,Years,Χρόνια
@@ -659,7 +664,7 @@ post-independence period,3,yes,Post-independence Period,Περίοδος Μετ�
 markets,3,yes,Markets,Αγορές
 kostas karamanlis,3,yes,Kostas Karamanlis,Κώστας Καραμανλής
 bolsonaro's brazil,3,yes,Bolsonaro's Brazil,Βραζιλία Του Μπολσονάρου
-19,3,yes,19,19
+'19,3,yes,'19,'19
 ministers,3,yes,Ministers,Υπουργοί
 parents,3,yes,Parents,Γονείς
 national examinations,3,yes,National Examinations,Εθνικές Εξετάσεις
@@ -735,7 +740,6 @@ lagarde,3,yes,Lagarde,Λαγκάρντ
 kostas,3,yes,Kostas,Κώστας
 london water company,3,yes,London Water Company,Εταιρεία Νερού Του Λονδίνου
 rae,3,yes,RAE,ΡΑΕ
-cyclades,3,yes,Cyclades,Κυκλάδες
 national health care system,3,yes,National Health Care System,Εθνικό Σύστημα Υγειονομικής Περίθαλψης
 employees,3,yes,Employees,Εργαζόμενοι
 lady,3,yes,Lady,Κυρία
@@ -752,7 +756,7 @@ japan,3,yes,Japan,Ιαπωνία
 nikos theocharakis,3,yes,Nikos Theocharakis,Νίκος Θεοχαράκης
 market pass,3,yes,Market Pass,Πάσο Αγοράς
 stournaras,3,yes,Stournaras,Στουρνάρας
-January 2015,3,yes,January 2015,Ιανουάριος 2015
+january 2015,3,yes,January 2015,Ιανουάριος 2015
 albania,3,yes,Albania,Αλβανία
 british empire,3,yes,British Empire,Βρετανική Αυτοκρατορία
 syria,3,yes,Syria,Συρία
@@ -768,13 +772,11 @@ compañeros,3,yes,Compañeros,Συνάδελφοι
 eu recovery fund,3,yes,Eu Recovery Fund,Ταμείο Ανάκαμψης Της EE
 health care,3,yes,Health Care,Υγειονομική Περίθαλψη
 ngos,3,yes,NGOs,ΜΚΟ
-next four years,3,yes,Next Four Years,Τα Επόμενα Τέσσερα Χρόνια
 gop,3,yes,Gop,Gop
 2015-2019,3,yes,2015-2019,2015-2019
 eur 650,3,yes,Eur 650,Eur 650
 eur 780,3,yes,Eur 780,780 Ευρώ
 950 euros,3,yes,950 Euros,950 Ευρώ
-breast cancer,3,yes,Breast Cancer,Καρκίνος Του Μαστού
 model and experimental schools,3,yes,Model And Experimental Schools,Πρότυπα Και Πειραματικά Σχολεία
 apatity mountains,3,yes,Apatity Mountains,Βουνά Απάτητα
 samos,3,yes,Samos,Σάμος
@@ -784,7 +786,6 @@ eur 950,3,yes,Eur 950,950 Ευρώ
 west attica,3,yes,West Attica,Δυτική Αττική
 25%,3,yes,25%,25%
 onnedites,3,yes,ONNED Members,ΟΝΝΕΔίτες/ίτισσες
-mr. regional governor,3,yes,Mr. Regional Governor,Κ. Περιφερειάρχη
 sea,3,yes,Sea,Θάλασσα
 national defence,3,yes,National Defence,Εθνική Άμυνα
 decade,3,yes,Decade,Δεκαετία
@@ -792,9 +793,9 @@ my home,3,yes,My Home,Το Σπίτι Μου
 us congress,3,yes,US Congress,Κογκρέσο Των ΗΠΑ
 city,3,yes,City,Πόλη
 opponents,3,yes,Opponents,Αντίπαλοι
+mr. mayor,3,yes,Mr. Mayor,Κ. Δήμαρχε
 tax cuts,3,yes,Tax Cuts,Φοροελαφρύνσεις
 health centers,3,yes,Health Centers,Κέντρα Υγείας
-young democrats,3,yes,Young Democrats,Νέοι Δημοκράτες
 130,3,yes,130,130
 arab world,3,yes,Arab World,Αραβικός Κόσμος
 borders,3,yes,Borders,Σύνορα
@@ -936,8 +937,9 @@ euroarmy,2,yes,Euroarmy,Ευρωστρατός
 80s,2,yes,80s,80s
 apsep,2,yes,Apsep,Apsep
 dpa,2,yes,Dpa,Dpa
+east attica,2,yes,East Attica,Ανατολική Αττική
 serifos,2,yes,Serifos,Σέριφος
-01/01/2024,2,yes,01/01/2024,01/01/2024
+1/01/2024,2,yes,1/01/2024,1/01/2024
 agricultural land,2,yes,Agricultural Land,Γεωργική Γη
 banking institutions,2,yes,Banking Institutions,Τραπεζικά Ιδρύματα
 50,2,yes,50,50
@@ -1047,7 +1049,7 @@ first world war,2,yes,First World War,Πρώτος Παγκόσμιος Πόλε
 asia minor,2,yes,Asia Minor,Μικρή Ασία
 middle east,2,yes,Middle East,Μέση Ανατολή
 greeks of pontus,2,yes,Greeks Of Pontus,Έλληνες Του Πόντου
-May 19,2,yes,May 19,19 Μαΐου
+may 19,2,yes,May 19,19 Μαΐου
 centrist,2,yes,Centrist,Κεντρώος
 poor,2,yes,Poor,Φτωχό
 substitutes,2,yes,Substitutes,Υποκατάστατα
@@ -1067,6 +1069,7 @@ crows,2,yes,Crows,Κοράκια
 july,2,yes,July,Ιούλιος
 neighbourhood,2,yes,Neighbourhood,Γειτονιά
 people with disabilities,2,yes,People With Disabilities,Άτομα Με Αναπηρία
+mothers,2,yes,Mothers,Μητέρες
 evdap,2,yes,EYDAP,ΕΥΔΑΠ
 kasidiaris' party,2,yes,Kasidiaris' Party,Το Κόμμα Του Κασιδιάρη
 easter,2,yes,Easter,Πάσχα
@@ -1109,7 +1112,7 @@ periphery,2,yes,Periphery,Περιφέρεια
 serra,2,yes,Serra,Σέρρες
 conservative,2,yes,Conservative,Συντηρητικός
 vote,2,yes,Vote,Ψήφος
-July 19,2,yes,July 19,19 Ιουλίου
+july 19,2,yes,July 19,19 Ιουλίου
 grassroots,2,yes,Grassroots,Λαϊκή Βάση
 streets,2,yes,Streets,Δρόμοι
 chanians,2,yes,Chanians,Χανιώτες
@@ -1125,11 +1128,11 @@ market,2,yes,Market,Αγορά
 jobs,2,yes,Jobs,Θέσεις Εργασίας
 greek mafia,2,yes,Greek Mafia,Ελληνική Μαφία
 the regime,2,yes,The Regime,Το Καθεστώς
-July 1,2,yes,July 1,1 Ιουλίου
+july 1,2,yes,July 1,1 Ιουλίου
 european legislation,2,yes,European Legislation,Ευρωπαϊκή Νομοθεσία
 public transport,2,yes,Public Transport,Δημόσιες Συγκοινωνίες
 300,2,yes,300,300
-n/a,2,no,N/a,Α/α
+n/a,2,yes,N/a,Α/α
 70,2,yes,70,70
 justice everywhere,2,yes,Justice Everywhere,Δικαιοσύνη Παντού
 20 years,2,yes,20 Years,20 Χρόνια
@@ -1137,7 +1140,8 @@ aade,2,yes,AADE,ΑΑΔΕ
 leadership,2,yes,Leadership,Ηγεσία
 four more years,2,yes,Four More Years,Τέσσερα Ακόμη Χρόνια
 special consumption tax,2,yes,Special Consumption Tax,Ειδικός Φόρος Κατανάλωσης
-Sunday 21 May,2,yes,Sunday 21 May,Κυριακή 21 Μαΐου
+sunday 21 may,2,yes,Sunday 21 May,Κυριακή 21 Μαΐου
+local communities,2,yes,Local Communities,Τοπικές Κοινότητες
 capitalists,2,yes,Capitalists,Καπιταλιστές
 marxist,2,yes,Marxist,Μαρξιστικό
 jpc,2,yes,Jpc,Jpc
@@ -1146,6 +1150,7 @@ lenders,2,yes,Lenders,Δανειστές
 afm,2,yes,AFM,ΑΦΜ
 credit swiss,2,yes,Credit Swiss,Credit Swiss
 baroufakis,2,yes,Baroufakis,Βαρουφάκης
+lavrion,2,yes,Lavrion,Lavrion
 mainstream media,2,yes,Mainstream Media,Κυρίαρχα ΜΜΕ
 international monetary fund,2,yes,International Monetary Fund,ΔΝΤ
 bourgeois,2,yes,Bourgeois,Αστική
@@ -1199,7 +1204,7 @@ deutschmark,2,yes,Deutschmark,Γερμανικό Μάρκο
 konstantinos karamanlis,2,yes,Konstantinos Karamanlis,Κωνσταντίνος Καραμανλής
 parliamentary party,2,yes,Parliamentary Party,Κοινοβουλευτικό Κόμμα
 05/07/2015,2,yes,05/07/2015,05/07/2015
-December 2021,2,yes,December 2021,Δεκέμβριος 2021
+december 2021,2,yes,December 2021,Δεκέμβριος 2021
 john,2,yes,John,Γιάννης
 opposition parties,2,yes,Opposition Parties,Κόμματα Της Αντιπολίτευσης
 christos laskos,2,yes,Christos Laskos,Χρήστος Λάσκος
@@ -1218,7 +1223,7 @@ macron,2,yes,Macron,Μακρόν
 coalition government,2,yes,Coalition Government,Κυβέρνηση Συνασπισμού
 teneo,2,yes,Teneo,Teneo
 australian,2,yes,Australian,Αυστραλιανή
-May 1,2,yes,May 1,Μαΐου 1
+may 1,2,yes,May 1,Μαΐου 1
 jeff bezos,2,yes,Jeff Bezos,Τζεφ Μπέζος
 credit suisse,2,yes,Credit Suisse,Credit Suisse
 demtra,2,yes,Demtra,Δήμητρα
@@ -1237,9 +1242,9 @@ social housing agency,2,yes,Social Housing Agency,Οργανισμός Κοιν�
 chinese,2,yes,Chinese,Κινέζικο
 afghanistan,2,yes,Afghanistan,Αφγανιστάν
 guerrilla,2,yes,Guerrilla,Αντάρτικο
-December 14,2,yes,December 14,14 Δεκεμβρίου
+december 14,2,yes,December 14,14 Δεκεμβρίου
 california,2,yes,California,Καλιφόρνια
-July 2015,2,yes,July 2015,Ιούλιος 2015
+july 2015,2,yes,July 2015,Ιούλιος 2015
 sparta,2,yes,Sparta,Σπάρτα
 war,2,yes,War,Πόλεμος
 european law,2,yes,European Law,Ευρωπαϊκό Δίκαιο
@@ -1285,6 +1290,7 @@ digital job card,2,yes,Digital Job Card,Ψηφιακή Κάρτα Εργασία
 my house,2,yes,My House,Το Σπίτι Μου
 unesco,2,yes,Unesco,Unesco
 student residences,2,yes,Student Residences,Φοιτητικές Εστίες
+neighbourhood nannies,2,yes,Neighbourhood Nannies,Νταντάδες Της Γειτονιάς
 working mothers,2,yes,Working Mothers,Εργαζόμενες Μητέρες
 ministry of labour,2,yes,Ministry Of Labour,Υπουργείο Εργασίας
 gr-eco islands,2,yes,Gr-eco Islands,Gr-eco Νησιά
@@ -1316,7 +1322,6 @@ leader,2,yes,Leader,Αρχηγός
 continent,2,yes,Continent,Ήπειρος
 archaeological museum,2,yes,Archaeological Museum,Αρχαιολογικό Μουσείο
 fokionos negri,2,yes,Fokionos Negri,Φωκίωνος Νέγρη
-mr. mayor,2,yes,Mr. Mayor,Κ. Δήμαρχε
 early breast cancer,2,yes,Early Breast Cancer,Πρώιμος Καρκίνος Του Μαστού
 far east,2,yes,Far East,Άπω Ανατολή
 united states congress,2,yes,United States Congress,Κογκρέσο Των Ηνωμένων Πολιτειών
@@ -1337,12 +1342,15 @@ emak,2,yes,Emak,EMAK
 uk,2,yes,UK,Ηνωμένο Βασίλειο
 diseases,2,yes,Diseases,Ασθένειες
 kindergartens,2,yes,Kindergartens,Παιδικοί Σταθμοί
+fellow citizens,2,yes,Fellow Citizens,Συμπολίτες Μας
 asep,2,yes,ASEP,ΑΣΕΠ
 of people,2,yes,Of People,Των Ανθρώπων
 mayors,2,yes,Mayors,Δήμαρχοι
 others,2,no,Others,Άλλοι
 100 billion,2,yes,100 Billion,100 Δισεκατομμύρια
 constantine and helen,2,yes,Constantine And Helen,Κωνσταντίνος Και Ελένη
+lavrio,2,yes,Lavrio,Λεβάντα
+mammogram,2,yes,Mammogram,Μαστογραφία
 illegal immigrants,2,yes,Illegal Immigrants,Παράνομοι Μετανάστες
 marines,2,yes,Marines,Πεζοναύτες
 velestino,2,yes,Velestino,Βελεστίνο
@@ -1413,7 +1421,7 @@ kapodistrias,1,yes,Kapodistrias,Καποδίστριας
 kallikrates,1,yes,Kallikrates,Καλλικράτης
 kammeni,1,yes,Kammeni,Χτένισμα
 european state,1,yes,European State,Ευρωπαϊκό Κράτος
-21 October 2021,1,yes,21 October 2021,21 Οκτωβρίου 2021
+21 october 2021,1,yes,21 October 2021,21 Οκτωβρίου 2021
 55 million euros,1,yes,55 Million Euros,55 Εκατομμύρια Ευρώ
 public organisations,1,yes,Public Organisations,Δημόσιες Οργανώσεις
 trainose,1,yes,Trainose,Trainose
@@ -1428,7 +1436,7 @@ health professionals,1,yes,Health Professionals,Επαγγελματίες Υγ�
 domestic elites,1,yes,Domestic Elites,Εγχώριες Ελίτ
 a century,1,yes,A Century,Ένας Αιώνας
 mr kasidiaris,1,yes,Mr Kasidiaris,Ο Κ. Κασιδιάρης
-3 September,1,yes,3 September,3 Σεπτεμβρίου
+3 september,1,yes,3 September,3 Σεπτεμβρίου
 dad,1,yes,Dad,Μπαμπάς
 mavrikis,1,yes,Mavrikis,Mavrikis
 mr kammenos,1,yes,Mr Kammenos,Κ. Καμμένος
@@ -1444,7 +1452,7 @@ bankruptcy law,1,yes,Bankruptcy Law,Πτωχευτικό Δίκαιο
 80 and 90,1,yes,80 And 90,80 Και 90
 new national health system,1,yes,New National Health System,Νέο Εθνικό Σύστημα Υγείας
 greek universities,1,yes,Greek Universities,Ελληνικά Πανεπιστήμια
-August 15,1,yes,August 15,15 Αυγούστου
+august 15,1,yes,August 15,15 Αυγούστου
 70%,1,yes,70%,70%
 peasant,1,yes,Peasant,Χωρικός
 rural people,1,yes,Rural People,Άνθρωποι Της Υπαίθρου
@@ -1483,7 +1491,7 @@ power generators,1,yes,Power Generators,Γεννήτριες Ενέργειας
 thousands of farmers,1,yes,Thousands Of Farmers,Χιλιάδες Αγρότες
 livestock farming,1,yes,Livestock Farming,Κτηνοτροφία
 third party,1,yes,Third Party,Τρίτο Μέρος
-28 May,1,yes,28 May,28 Μαΐου
+28 may,1,yes,28 May,28 Μαΐου
 717 contract,1,yes,717 Contract,717 Συμβόλαιο
 400 billion,1,yes,400 Billion,400 Δισεκατομμύρια
 mr. karatzaferis,1,yes,Mr. Karatzaferis,Κ. Καρατζαφέρης
@@ -1644,7 +1652,6 @@ european economic sovereignty fund,1,yes,European Economic Sovereignty Fund,Ευ
 south,1,yes,South,Νότια
 zapia,1,yes,Zapia,Zapia
 article 10,1,yes,Article 10,Άρθρο 10
-east attica,1,yes,East Attica,Ανατολική Αττική
 23-24,1,yes,23-24,23-24
 minister of education,1,yes,Minister Of Education,Υπουργός Παιδείας
 law 3869,1,yes,Law 3869,Νόμος 3869
@@ -1707,7 +1714,7 @@ human rights,1,yes,Human Rights,Ανθρώπινα Δικαιώματα
 hope,1,yes,Hope,Ελπίδα
 democrat progressive leftist,1,yes,Democrat Progressive Leftist,Δημοκράτης Προοδευτικός Αριστερός
 dna,1,yes,Dna,Dna
-Tuesday 23 May,1,yes,Tuesday 23 May,Κυριακή 23 Μαΐου
+sunday 23 may,1,yes,Sunday 23 May,Κυριακή 23 Μαΐου
 prosecutor,1,yes,Prosecutor,Εισαγγελέας
 businessmen,1,yes,Businessmen,Επιχειρηματίες
 liberalism,1,yes,Liberalism,Φιλελευθερισμός
@@ -1902,7 +1909,7 @@ better pensions,1,yes,Better Pensions,Καλύτερες Συντάξεις
 staff state,1,yes,Staff State,Κατάσταση Προσωπικού
 eight-hour period,1,yes,Eight-hour Period,Περίοδο Οκτώ Ωρών
 third week of the month,1,yes,Third Week Of The Month,Τρίτη Εβδομάδα Του Μήνα
-7.40%,1,yes,7.40%,7.40%
+7.4%,1,yes,7.4%,7.4%
 111,1,yes,111,111
 7 pulmonologists,1,yes,7 Pulmonologists,7 Πνευμονολόγοι
 6 pediatricians,1,yes,6 Pediatricians,6 Παιδίατροι
@@ -2013,7 +2020,7 @@ exploratory mandate,1,yes,Exploratory Mandate,Διερευνητική Εντο�
 by-election,1,yes,By-election,Επαναληπτικές Εκλογές
 pressure,1,yes,Pressure,Πίεση
 defect,1,yes,Defect,Ελάττωμα
-Sunday May 21,1,yes,Sunday May 21,Κυριακή 21 Μαΐου
+sunday may 21,1,yes,Sunday May 21,Κυριακή 21 Μαΐου
 mega television station,1,yes,Mega Television Station,Μεγάλος Τηλεοπτικός Σταθμός
 primacy,1,yes,Primacy,Πρωτοκαθεδρία
 tv interview,1,yes,Tv Interview,Τηλεοπτική Συνέντευξη
@@ -2168,7 +2175,7 @@ eight-hour day,1,yes,Eight-hour Day,Οκτάωρη Ημέρα
 month,1,yes,Month,Μήνας
 21,1,yes,21,21
 three years,1,yes,Three Years,Τρία Χρόνια
-7.50%,1,yes,7.50%,7.50%
+7.5%,1,yes,7.5%,7.5%
 world war ii,1,yes,World War Ii,Δεύτερος Παγκόσμιος Πόλεμος
 €10 billion,1,yes,€10 Billion,10 Δισεκατομμύρια
 opponents and enemies,1,yes,Opponents And Enemies,Αντίπαλοι Και Εχθροί
@@ -2223,7 +2230,6 @@ big funds,1,yes,Big Funds,Μεγάλα Κεφάλαια
 30%,1,yes,30%,30%
 5%,1,yes,5%,5%
 people of culture,1,yes,People Of Culture,Άνθρωποι Του Πολιτισμού
-mothers,1,yes,Mothers,Μητέρες
 13 big businessmen,1,yes,13 Big Businessmen,13 Μεγάλοι Επιχειρηματίες
 chad,1,yes,Chad,Chad
 right wing,1,yes,Right Wing,Δεξιά Πτέρυγα
@@ -2571,7 +2577,6 @@ government of progressive cooperation,1,yes,Government Of Progressive Cooperatio
 government of impunity,1,yes,Government Of Impunity,Κυβέρνηση Της Ατιμωρησίας
 port,1,yes,Port,Λιμένας
 pagasitikos,1,yes,Pagasitikos,Pagasitikos
-local communities,1,yes,Local Communities,Τοπικές Κοινότητες
 environment,1,yes,Environment,Περιβάλλον
 sporades,1,yes,Sporades,Σποράδες
 eur 150,1,yes,Eur 150,Eur 150
@@ -2626,7 +2631,6 @@ haratzi,1,yes,Haratzi,Haratzi
 taxpayer's tax id,1,yes,Taxpayer's Tax Id,Φορολογική Ταυτότητα Του Φορολογούμενου
 netanyahu,1,yes,Netanyahu,Netanyahu
 alexis,1,yes,Alexis,Alexis
-lavrion,1,yes,Lavrion,Lavrion
 jesus,1,yes,Jesus,Ιησούς
 rio de janeiro,1,yes,Rio De Janeiro,Ρίο Ντε Τζανέιρο
 iraqi,1,yes,Iraqi,Ιρακινό
@@ -2678,12 +2682,12 @@ mark blythe,1,yes,Mark Blythe,Mark Blythe
 nick theocharakis,1,yes,Nick Theocharakis,Nick Theocharakis
 city hall,1,yes,City Hall,Δημαρχείο
 technopolis,1,yes,Technopolis,Technopolis
-June 2015,1,yes,June 2015,Ιούνιος 2015
+june 2015,1,yes,June 2015,Ιούνιος 2015
 21/05,1,yes,21/05,21/05
 comrades of popular unity,1,yes,Comrades Of Popular Unity,Σύντροφοι Της Λαϊκής Ενότητας
 non-aligned,1,yes,Non-aligned,Μη Ευθυγραμμισμένο
 non-aligned left,1,yes,Non-aligned Left,Μη Ευθυγραμμισμένο Αριστερά
-Saturday 03/07/2015,1,yes,Saturday 03/07/2015,Παρασκευή 03/07/2015
+friday 03/07/2015,1,yes,Friday 03/07/2015,Παρασκευή 03/07/2015
 mr. pyatt,1,yes,Mr. Pyatt,Ο Κ. Pyatt.
 trampa,1,yes,Trampa,Τραμπάλα
 chechens,1,yes,Chechens,Τσετσένοι
@@ -3046,12 +3050,12 @@ unsw university,1,yes,Unsw University,Πανεπιστήμιο Unsw
 alexandra kasimi,1,yes,Alexandra Kasimi,Alexandra Kasimi
 syntenko,1,yes,Syntenko,Syntenko
 psarantonis xylouris,1,yes,Psarantonis Xylouris,Psarantonum Xylouris
-May 1968,1,yes,May 1968,Μάιος 1968
+may 1968,1,yes,May 1968,Μάιος 1968
 nea smyrni,1,yes,Nea Smyrni,Λίπανση Nea
 rixi,1,yes,Rixi,Rixi
 gbp,1,yes,Gbp,Gbp
 deddeo,1,yes,Deddeo,Deddeo
-January 1,1,yes,January 1,1 Ιανουαρίου
+january 1,1,yes,January 1,1 Ιανουαρίου
 beginning,1,yes,Beginning,Αρχή
 intrum hellas,1,yes,Intrum Hellas,Intruder Hellas
 dovalue,1,yes,Dovalue,Dovalue
@@ -3059,14 +3063,14 @@ fuel pass,1,yes,Fuel Pass,Πάσο Καυσίμου
 donald trump,1,yes,Donald Trump,Ντόναλντ Τραμπ
 vasta gerouns,1,yes,Vasta Gerouns,Vasta Gerouns
 the establishment,1,yes,The Establishment,Η Ίδρυση
-December 2014,1,yes,December 2014,Δεκέμβριος 2014
+december 2014,1,yes,December 2014,Δεκέμβριος 2014
 venezuela,1,yes,Venezuela,Βενεζουέλα
 ten-t,1,yes,Ten-t,Ten-t
 piraeus banks,1,yes,Piraeus Banks,Τράπεζες Πειραιώς
 ethniki,1,yes,Ethniki,Ethniki
 eric edman,1,yes,Eric Edman,Eric Edman
 demirta system,1,yes,Demirta System,Σύστημα Demirta
-28 October,1,yes,28 October,28 Οκτωβρίου
+28 october,1,yes,28 October,28 Οκτωβρίου
 payments,1,yes,Payments,Πληρωμές
 free press,1,yes,Free Press,Ελεύθερος Τύπος
 demitra system,1,yes,Demitra System,Σύστημα Demitra
@@ -3076,7 +3080,7 @@ oligarchy's channels,1,yes,Oligarchy's Channels,Τα Κανάλια Της Ολ�
 everest,1,yes,Everest,Everest
 gregory's,1,yes,Gregory's,Του Gregory
 detanyahu,1,yes,Detanyahu,Detanyahu
-February 2016,1,yes,February 2016,Φεβρουάριος 2016
+february 2016,1,yes,February 2016,Φεβρουάριος 2016
 italian,1,yes,Italian,Ιταλικά
 derm25,1,yes,Derm25,Derm25
 maastricht,1,yes,Maastricht,Μάαστριχτ
@@ -3192,10 +3196,10 @@ panagiotis tsounis,1,yes,Panagiotis Tsounis,Παναγιώτης Τσούνης
 potami,1,yes,Potami,Potami
 pla,1,yes,Pla,Pla
 january february 2018,1,yes,January February 2018,Ιανουάριος Φεβρουάριος 2018
-March 2018,1,yes,March 2018,Μάρτιος 2018
+march 2018,1,yes,March 2018,Μάρτιος 2018
 summer of 2018,1,yes,Summer Of 2018,Καλοκαίρι Του 2018
 2060,1,yes,2060,2060
-June 2019,1,yes,June 2019,Ιούνιος 2019
+june 2019,1,yes,June 2019,Ιούνιος 2019
 chamber of deputies,1,yes,Chamber Of Deputies,Βουλή Των Αντιπροσώπων
 sophia,1,yes,Sophia,Sophia
 semites,1,yes,Semites,Σημίτες
@@ -3266,8 +3270,8 @@ highways,1,yes,Highways,Αυτοκινητόδρομοι
 foreign lenders,1,yes,Foreign Lenders,Ξένοι Δανειστές
 colonialism,1,yes,Colonialism,Αποικιοκρατία
 athens-piraeus water supply and sewerage company,1,yes,Athens-piraeus Water Supply And Sewerage Company,Εταιρεία Ύδρευσης Και Αποχέτευσης Αθηνών-πυραιώς
-March 25,1,yes,March 25,25 Μαρτίου
-October 28,1,yes,October 28,28 Οκτωβρίου
+march 25,1,yes,March 25,25 Μαρτίου
+october 28,1,yes,October 28,28 Οκτωβρίου
 el salvador,1,yes,El Salvador,Ελ Σαλβαδόρ
 2009-2010,1,yes,2009-2010,2009-2010
 delaware predators,1,yes,Delaware Predators,Αρπακτικά Του Delaware
@@ -3325,7 +3329,7 @@ sallas of piraeus,1,yes,Sallas Of Piraeus,Σάλλας Του Πειραιά
 occupiers,1,yes,Occupiers,Κάτοχοι
 ppp law firms,1,yes,Ppp Law Firms,Δικηγορικά Γραφεία Ppp
 memorandum process parties,1,yes,Memorandum Process Parties,Διαδικασία Μνημονίου Μέρη
-August 18,1,yes,August 18,18 Αυγούστου
+august 18,1,yes,August 18,18 Αυγούστου
 congo,1,yes,Congo,Κονγκό
 hercules system,1,yes,Hercules System,Σύστημα Ηρακλής
 ulysses system,1,yes,Ulysses System,Σύστημα Ulysses
@@ -3438,13 +3442,13 @@ industrialists,1,yes,Industrialists,Βιομήχανοι
 exploiters,1,yes,Exploiters,Χειριστές
 people's families,1,yes,People's Families,Τις Οικογένειες Των Ανθρώπων
 programme of power and governance,1,yes,Programme Of Power And Governance,Πρόγραμμα Εξουσίας Και Διακυβέρνησης
-May 2012,1,yes,May 2012,Μάιος 2012
+may 2012,1,yes,May 2012,Μάιος 2012
 10 years ago,1,yes,10 Years Ago,Πριν 10 Χρόνια
 past four years,1,yes,Past Four Years,Τα Τελευταία Τέσσερα Χρόνια
 sunday-working days,1,yes,Sunday-working Days,Κυριακή-εργασιακές Ημέρες
 13th and 14th wages,1,yes,13th And 14th Wages,13ος Και 14ος Μισθός
 west of athens,1,yes,West Of Athens,Δυτικά Της Αθήνας
-October 2020,1,yes,October 2020,Οκτώβριος 2020
+october 2020,1,yes,October 2020,Οκτώβριος 2020
 court of appeals,1,yes,Court Of Appeals,Εφετείο
 democratic people,1,yes,Democratic People,Δημοκρατικοί Άνθρωποι
 goldilocks,1,yes,Goldilocks,Goldilocks
@@ -3604,7 +3608,7 @@ petroleum and fertilizer of kavala,1,yes,Petroleum And Fertilizer Of Kavala,Πε
 miners,1,yes,Miners,Ανθρακωρύχοι
 gsee,1,yes,Gsee,Gsee
 kavouri,1,yes,Kavouri,Καβούρι
-March 8,1,yes,March 8,8 Μαρτίου
+march 8,1,yes,March 8,8 Μαρτίου
 presidium,1,yes,Presidium,Προεδρείο
 achtsioglou,1,yes,Achtsioglou,Αχτσιόγλου
 minister of labour,1,yes,Minister Of Labour,Υπουργός Εργασίας
@@ -3656,7 +3660,7 @@ karla street,1,yes,Karla Street,Karla Street
 ata,1,yes,Ata,Ata
 mezourlo,1,yes,Mezourlo,Mezourle
 n. smyrna,1,yes,N. Smyrna,N. Smyrna
-March 3,1,yes,March 3,Μάρτιος 3
+march 3,1,yes,March 3,Μάρτιος 3
 hundreds of workers,1,yes,Hundreds Of Workers,Εκατοντάδες Εργαζόμενοι
 workers and the people,1,yes,Workers And The People,Οι Εργαζόμενοι Και Ο Λαός
 dozens of cases,1,yes,Dozens Of Cases,Δεκάδες Υποθέσεις
@@ -3677,7 +3681,7 @@ german chancellor,1,yes,German Chancellor,Γερμανός Καγκελάριο�
 gsee (general confederation of greek workers),1,yes,Gsee (general Confederation Of Greek Workers),Gsee (γενική Συνομοσπονδία Των Ελλήνων Εργαζομένων)
 municipal election,1,yes,Municipal Election,Δημοτικές Εκλογές
 peletides,1,yes,Peletides,Πελετίδες
-February 2020,1,yes,February 2020,Φεβρουάριος 2020
+february 2020,1,yes,February 2020,Φεβρουάριος 2020
 fighters,1,yes,Fighters,Μαχητές
 kalloni,1,yes,Kalloni,Calloni
 mistena,1,yes,Mistena,Mistena
@@ -3707,7 +3711,7 @@ vrissa,1,yes,Vrissa,Vrissa
 vateres,1,yes,Vateres,Vateres
 stavros,1,yes,Stavros,Stavros
 last summer,1,yes,Last Summer,Το Περασμένο Καλοκαίρι
-May 10,1,yes,May 10,Μαΐου 10
+may 10,1,yes,May 10,Μαΐου 10
 all student first force,1,yes,All Student First Force,Όλοι Οι Φοιτητές Πρώτη Δύναμη
 euro area,1,yes,Euro Area,Ζώνη Του Ευρώ
 2019-2022,1,yes,2019-2022,2019-2022
@@ -3716,7 +3720,7 @@ coronoid,1,yes,Coronoid,Στεφανιοειδές
 president of microsoft,1,yes,President Of Microsoft,Πρόεδρος Της Microsoft
 brad smith,1,yes,Brad Smith,Brad Smith
 pfizer,1,yes,Pfizer,Pfizer
-January 2020,1,yes,January 2020,Ιανουάριος 2020
+january 2020,1,yes,January 2020,Ιανουάριος 2020
 nine months later,1,yes,Nine Months Later,Εννέα Μήνες Αργότερα
 greek shipping industry,1,yes,Greek Shipping Industry,Ελληνική Ναυτιλιακή Βιομηχανία
 ministry of development,1,yes,Ministry Of Development,Υπουργείο Ανάπτυξης
@@ -3770,7 +3774,6 @@ line 2,1,yes,Line 2,Γραμμή 2
 metro line 4,1,yes,Metro Line 4,Γραμμή 4 Του Μετρό
 self-employed workers,1,yes,Self-employed Workers,Αυτοαπασχολούμενοι Εργαζόμενοι
 infants and toddlers,1,yes,Infants And Toddlers,Βρέφη Και Νήπια
-neighbourhood nannies,1,yes,Neighbourhood Nannies,Νταντάδες Της Γειτονιάς
 working families,1,yes,Working Families,Εργαζόμενες Οικογένειες
 social structures,1,yes,Social Structures,Κοινωνικές Δομές
 apatity,1,yes,Apatity,Apatity
@@ -3828,7 +3831,7 @@ may 28th,1,yes,May 28th,28 Μαΐου
 psakhi,1,yes,Psakhi,Psakhi
 museum,1,yes,Museum,Μουσείο
 mayer,1,yes,Mayer,Mayer
-15 June,1,yes,15 June,15 Ιουνίου
+15 june,1,yes,15 June,15 Ιουνίου
 crisis of price stability,1,yes,Crisis Of Price Stability,Κρίση Της Σταθερότητας Των Τιμών
 730 euros,1,yes,730 Euros,730 Ευρώ
 14,1,yes,14,14
@@ -4055,7 +4058,6 @@ primary schools,1,yes,Primary Schools,Δημοτικά Σχολεία
 20 000,1,yes,20 000,20 000
 greek woman,1,yes,Greek Woman,Ελληνίδα
 minimum guaranteed income,1,yes,Minimum Guaranteed Income,Ελάχιστο Εγγυημένο Εισόδημα
-fellow citizens,1,yes,Fellow Citizens,Συμπολίτες Μας
 severely disabled people,1,yes,Severely Disabled People,Άτομα Με Σοβαρή Αναπηρία
 efka management,1,yes,Efka Management,Διαχείριση Efka
 thrace greenhouses,1,yes,Thrace Greenhouses,Θερμοκήπια Θράκης
@@ -4074,6 +4076,16 @@ kamenos,1,yes,Kamenos,Πέτρες
 august '15,1,yes,August '15,Αύγουστος '15
 proportional representation system,1,yes,Proportional Representation System,Σύστημα Αναλογικής Εκπροσώπησης
 self-empowered greece,1,yes,Self-empowered Greece,Αυτοδύναμη Ελλάδα
+municipality of lavrio,1,yes,Municipality Of Lavrio,Δήμος Λαυρίου
+greek tourism,1,yes,Greek Tourism,Ελληνικός Τουρισμός
+patoulis,1,yes,Patoulis,Πατούλης
+myhealth,1,yes,Myhealth,Myhealth
+seven thousand women,1,yes,Seven Thousand Women,Επτά Χιλιάδες Γυναίκες
+public facility,1,yes,Public Facility,Δημόσια Εγκατάσταση
+private facility,1,yes,Private Facility,Ιδιωτική Εγκατάσταση
+stelios kympouropoulos,1,yes,Stelios Kympouropoulos,Στέλιος Κυμπουρόπουλος
+severe disabilities,1,yes,Severe Disabilities,Σοβαρές Αναπηρίες
+professional and personal lives,1,yes,Professional And Personal Lives,Επαγγελματική Και Προσωπική Ζωή
 young democrats of volos,1,yes,Young Democrats Of Volos,Νέοι Δημοκράτες Του Βόλου
 dapites,1,yes,Dapites,Δαπίτες
 veterans of the party,1,yes,Veterans Of The Party,Βετεράνοι Του Κόμματος
@@ -4084,18 +4096,18 @@ crises,1,yes,Crises,Κρίσεις
 global price explosion,1,yes,Global Price Explosion,Παγκόσμια Έκρηξη Τιμών
 national threats,1,yes,National Threats,Εθνικές Απειλές
 2015 crisis,1,yes,2015 Crisis,Κρίση Του 2015
-us',1,yes,us',μας'
-country',1,yes,country',χώρα'
-taxes',1,yes,taxes',φόροι'
-investment',1,yes,investment',επένδυση'
-jobs',1,yes,jobs',θέσεις Εργασίας'
-income support',1,yes,income Support',"""εισοδηματική Ενίσχυση"
-protection',1,yes,protection',προστασία'
-state',1,yes,state',κατάσταση'
-economy',1,yes,economy',οικονομία'
-immigration',1,yes,immigration',μετανάστευση'
-defence',1,yes,defence',άμυνα'
-election',1,yes,election',εκλογές'
+'us',1,yes,'us','μας'
+'country',1,yes,'country','χώρα'
+'taxes',1,yes,'taxes','φόροι'
+'investment',1,yes,'investment','επένδυση'
+'jobs',1,yes,'jobs','θέσεις Εργασίας'
+'income support',1,yes,'income Support',"""εισοδηματική Ενίσχυση"
+'protection',1,yes,'protection','προστασία'
+'state',1,yes,'state','κατάσταση'
+'economy',1,yes,'economy','οικονομία'
+'immigration',1,yes,'immigration','μετανάστευση'
+'defence',1,yes,'defence','άμυνα'
+'election',1,yes,'election','εκλογές'
 22%,1,yes,22%,22%
 9%,1,yes,9%,9%
 solidarity contribution,1,yes,Solidarity Contribution,Συνεισφορά Αλληλεγγύης
@@ -4132,9 +4144,8 @@ european investment,1,yes,European Investment,Ευρωπαϊκή Επένδυσ�
 parody referendum,1,yes,Parody Referendum,Δημοψήφισμα Παρωδία
 17 hours,1,yes,17 Hours,17 Ώρες
 additional taxes,1,yes,Additional Taxes,Πρόσθετοι Φόροι
-July 2020,1,yes,July 2020,Ιούλιος 2020
+july 2020,1,yes,July 2020,Ιούλιος 2020
 5 days,1,yes,5 Days,5 Ημέρες
-mammogram,1,yes,Mammogram,Μαστογραφία
 69,1,yes,69,69
 foreign language,1,yes,Foreign Language,Ξένη Γλώσσα
 interactive whiteboards,1,yes,Interactive Whiteboards,Διαδραστικοί Πίνακες
@@ -4261,7 +4272,7 @@ record year,1,yes,Record Year,Έτος Ρεκόρ
 reduced vat,1,yes,Reduced Vat,Μειωμένο Φπα
 refund of the special tax on oil,1,yes,Refund Of The Special Tax On Oil,Επιστροφή Του Ειδικού Φόρου Επί Του Πετρελαίου
 suspension of the business tax,1,yes,Suspension Of The Business Tax,Αναστολή Του Τέλους Επιτηδεύματος
-10 May,1,yes,10 May,10 Μαΐου
+10 may,1,yes,10 May,10 Μαΐου
 crop damage,1,yes,Crop Damage,Ζημιές Στις Καλλιέργειες
 motorway,1,yes,Motorway,Αυτοκινητόδρομος
 ports,1,yes,Ports,Λιμένες
@@ -4303,7 +4314,7 @@ disabled citizens,1,yes,Disabled Citizens,Πολίτες Με Αναπηρία
 vincent cornaros,1,yes,Vincent Cornaros,Vincent Cornaros
 liberal democrats of crete,1,yes,Liberal Democrats Of Crete,Φιλελεύθεροι Δημοκράτες Της Κρήτης
 ancestral land,1,yes,Ancestral Land,Προγονική Γη
-April 2003,1,yes,April 2003,Απρίλιος 2003
+april 2003,1,yes,April 2003,Απρίλιος 2003
 agioi anargyros,1,yes,Agioi Anargyros,Αγίους Αναργύρους
 kamatero,1,yes,Kamatero,Kamatero
 petroupoli,1,yes,Petroupoli,Πετρούπολη
@@ -4377,7 +4388,7 @@ the last four years,1,yes,The Last Four Years,Τα Τελευταία Τέσσε
 supported living shelters,1,yes,Supported Living Shelters,Καταφύγια Υποστηριζόμενης Διαβίωσης
 parent,1,yes,Parent,Γονέας
 third world,1,yes,Third World,Τρίτος Κόσμος
-17 May,1,yes,17 May,17 Μαΐου
+17 may,1,yes,17 May,17 Μαΐου
 2004,1,yes,2004,2004
 20 days before the national elections,1,yes,20 Days Before The National Elections,20 Ημέρες Πριν Από Τις Εθνικές Εκλογές
 spyro,1,yes,Spyro,Spyro
