@@ -1,17 +1,17 @@
 NER,frequency,to appear? (yes/no),EN name,EL name
-new democracy,373,yes,New Democracy,Νέα Δημοκρατία
+new democracy,374,yes,New Democracy,Νέα Δημοκρατία
 greece,239,yes,Greece,Ελλάδα
 syriza,204,yes,SYRIZA,ΣΥΡΙΖΑ
 mitsotakis,189,yes,Mitsotakis,Μητσοτάκης
 pasok,158,yes,PASOK,ΠΑΣΟΚ
 kke,138,yes,KKE,ΚΚΕ
 greek,136,no,Greek,Ελληνικά
-greek people,118,yes,Greek People,Έλληνες
+greek people,120,yes,Greek People,Έλληνες
 country,85,no,Country,Χώρα
 june 25th,84,yes,June 25th,25 Ιουνίου
-national health system,81,yes,National Health System,Εθνικό Σύστημα Υγείας
+national health system,82,yes,National Health System,Εθνικό Σύστημα Υγείας
 european union,74,yes,European Union,Ευρωπαϊκή Ένωση
-europe,58,yes,Europe,Ευρώπη
+europe,57,yes,Europe,Ευρώπη
 government,55,yes,Government,Κυβέρνηση
 tsipras,53,yes,Tsipras,Τσίπρας
 parliament,46,yes,Parliament,Κοινοβούλιο
@@ -72,7 +72,7 @@ halkidiki,11,yes,Halkidiki,Χαλκιδική
 sunday,11,yes,Sunday,Κυριακή
 peristeri,11,yes,Peristeri,Περιστέρι
 fthiotida,11,yes,Fthiotida,Fthiotida
-patras,11,yes,Patras,Πάτρα
+opposition,11,yes,Opposition,Αντιπολίτευση
 dodecanese,10,yes,Dodecanese,Δωδεκάνησος
 hospitals,10,yes,Hospitals,Νοσοκομεία
 funds,10,yes,Funds,Κεφάλαια
@@ -85,11 +85,11 @@ troika,10,yes,Troika,Τρόικα
 perama,10,yes,Perama,Πέραμα
 katerini,10,yes,Katerini,Κατερίνη
 may,10,yes,May,Μπορεί
-opposition,10,yes,Opposition,Αντιπολίτευση
 drama,10,yes,Drama,Δράμα
 political party,9,yes,Political Party,Πολιτικό Κόμμα
 european countries,9,yes,European Countries,Ευρωπαϊκές Χώρες
 25 june,9,yes,25 June,25 Ιουνίου
+patras,9,yes,Patras,Πάτρα
 chios,8,yes,Chios,Χίος
 brussels,8,yes,Brussels,Βρυξέλλες
 tripoli,8,yes,Tripoli,Τρίπολη
@@ -98,7 +98,6 @@ rhodes,8,yes,Rhodes,Ρόδος
 public hospitals,8,yes,Public Hospitals,Δημόσια Νοσοκομεία
 public health,8,yes,Public Health,Δημόσια Υγεία
 commission,8,yes,Commission,Προμήθεια
-armed forces,8,yes,Armed Forces,Ένοπλες Δυνάμεις
 2022,7,yes,2022,2022
 us,7,yes,Us,Us
 bulgaria,7,yes,Bulgaria,Βουλγαρία
@@ -114,9 +113,9 @@ comrades,7,yes,Comrades,Σύντροφοι
 south-west,7,yes,South-west,Νοτιοδυτικά
 laconia,7,yes,Laconia,Λακωνία
 salamina,7,yes,Salamina,Salamina
+armed forces,7,yes,Armed Forces,Ένοπλες Δυνάμεις
 media,6,yes,Media,Μισό
 czech republic,6,yes,Czech Republic,Δημοκρατία Της Τσεχίας
-left,6,yes,Left,Αριστερά
 evros,6,yes,Evros,Έβρος
 spain,6,yes,Spain,Ισπανία
 oecd,6,yes,Oecd,ΟΑΣΑ
@@ -137,6 +136,7 @@ proportional representation,6,yes,Proportional Representation,Απλή Αναλ�
 evia,6,yes,Evia,Εύβοια
 unemployment,6,yes,Unemployment,Ανεργία
 eopyy,6,yes,Eopyy,Eopyy
+10,6,yes,10,10
 minimum wage,6,yes,Minimum Wage,Κατώτατος Μισθός
 kokkinia,6,yes,Kokkinia,Μαγείρεμα
 jcp,6,yes,Jcp,Jcp
@@ -149,6 +149,7 @@ kilkis,6,yes,Kilkis,Severalis
 ireland,5,yes,Ireland,Ιρλανδία
 georgiades,5,yes,Georgiades,Γεωργιάδες
 efka,5,yes,EFKA,ΕΦΚΑ
+left,5,yes,Left,Αριστερά
 ballot box,5,yes,Ballot Box,Κάλπη
 esas,5,yes,Esas,Εκείνα Τα
 civil servants,5,yes,Civil Servants,Δημόσιοι Υπάλληλοι
@@ -174,8 +175,6 @@ worker,5,yes,Worker,Εργαζόμενος
 nea makri,5,yes,Nea Makri,Nea Makri
 december 2019,5,yes,December 2019,Δεκέμβριος 2019
 staff,5,yes,Staff,Προσωπικό
-10,5,yes,10,10
-right,5,yes,Right,Δεξιά
 piraeus,5,yes,Piraeus,Πειραιάς
 none,5,yes,nan,Κανένας
 energy cartels,5,yes,Energy Cartels,Ενεργειακά Καρτέλ
@@ -216,6 +215,7 @@ lassithi,4,yes,Lassithi,Lassithi
 livestock farmers,4,yes,Livestock Farmers,Κτηνοτρόφοι
 larissa,4,yes,Larissa,Larissa
 thessaly,4,yes,Thessaly,Θεσσαλία
+f-35,4,yes,F-35,F-35
 greek prime minister,4,yes,Greek Prime Minister,Έλληνας Πρωθυπουργός
 adonis georgiades,4,yes,Adonis Georgiades,Αδωνις Γεωργιάδης
 island,4,yes,Island,Νησί
@@ -234,7 +234,9 @@ national health service,4,yes,National Health Service,Εθνική Υπηρεσ�
 ambulance,4,yes,Ambulance,Ασθενοφόρο
 €1,4,yes,€1,€1
 december 2022,4,yes,December 2022,Δεκέμβριος 2022
+pensioners,4,yes,Pensioners,Συνταξιούχοι
 progressive alliance,4,yes,Progressive Alliance,Προοδευτική Συμμαχία
+right,4,yes,Right,Δεξιά
 nsrf,4,yes,Nsrf,Nsrf
 50 bonus seats,4,yes,50 Bonus Seats,50 Θέσεις Μπόνους
 four-year period,4,yes,Four-year Period,Τετραετής Περίοδος
@@ -263,6 +265,7 @@ june 26,4,yes,June 26,Ιούνιος 26
 toumba,4,yes,Toumba,Toumba
 church,4,yes,Church,Εκκλησία
 elefsina,4,yes,Elefsina,Elefsina
+emergency departments,4,yes,Emergency Departments,Τμήματα Επειγόντων Περιστατικών
 june 26th,4,yes,June 26th,26 Ιουνίου
 local government,4,yes,Local Government,Τοπική Αυτοδιοίκηση
 investment,4,yes,Investment,Επένδυση
@@ -300,8 +303,6 @@ romania,3,yes,Romania,Ρουμανία
 teachers,3,yes,Teachers,Δάσκαλοι
 european parliament,3,yes,European Parliament,Ευρωπαϊκό Κοινοβούλιο
 economists,3,yes,Economists,Οικονομολόγοι
-pensions,3,yes,Pensions,Συντάξεις
-f-35,3,yes,F-35,F-35
 americans,3,yes,Americans,Αμερικανοί
 25th,3,yes,25th,25η
 rodopi,3,yes,Rodopi,Rhodopi
@@ -320,12 +321,10 @@ airbnb,3,yes,Airbnb,Airbnb
 woman,3,yes,Woman,Γυναίκα
 chalkida,3,yes,Chalkida,Chalkida
 right-wing,3,yes,Right-wing,Δεξιά
-pensioners,3,yes,Pensioners,Συνταξιούχοι
 unemployed,3,yes,Unemployed,Άνεργοι
 police officers,3,yes,Police Officers,Αστυνομικοί
 mr. pneimatikos,3,yes,Mr. Pneimatikos,Ο Κ. Pneumatics
 imathia,3,yes,Imathia,Imathia
-our country,3,yes,Our Country,Η Χώρα Μας
 organization,3,yes,Organization,Οργάνωση
 farmer,3,yes,Farmer,Αγρότης
 private hospitals,3,yes,Private Hospitals,Ιδιωτικά Νοσοκομεία
@@ -333,6 +332,7 @@ progressive party,3,yes,Progressive Party,Προοδευτικό Κόμμα
 hatzidakis,3,yes,Hatzidakis,Χατζιδάκις
 trade unions,3,yes,Trade Unions,Συνδικάτα
 2012,3,yes,2012,2012
+public education,3,yes,Public Education,Δημόσια Εκπαίδευση
 foreclosures,3,yes,Foreclosures,Κατασχέσεις
 1,3,yes,1,1
 june,3,yes,June,Ιούνιος
@@ -355,7 +355,8 @@ may elections,3,yes,May Elections,Εκλογές Του Μαΐου
 malamatina,3,yes,Malamatina,Malamatina
 workplaces,3,yes,Workplaces,Χώροι Εργασίας
 electric cars,3,yes,Electric Cars,Ηλεκτρικά Αυτοκίνητα
-emergency departments,3,yes,Emergency Departments,Τμήματα Επειγόντων Περιστατικών
+health centers,3,yes,Health Centers,Κέντρα Υγείας
+personal doctor,3,yes,Personal Doctor,Γιατρός Του Προσωπικού
 jobs,3,yes,Jobs,Θέσεις Εργασίας
 borders,3,yes,Borders,Σύνορα
 aspropyrgos,3,yes,Aspropyrgos,Ασπρόπυργος
@@ -444,6 +445,7 @@ independent authorities,2,yes,Independent Authorities,Ανεξάρτητες Α�
 50,2,yes,50,50
 2%,2,yes,2%,2%
 100,2,yes,100,100
+pensions,2,yes,Pensions,Συντάξεις
 primary healthcare,2,yes,Primary Healthcare,Πρωτοβάθμια Υγειονομική Περίθαλψη
 agriculture,2,yes,Agriculture,Γεωργία
 norway,2,yes,Norway,Νορβηγία
@@ -516,6 +518,7 @@ pissarides,2,yes,Pissarides,Pissarides
 refining cartels,2,yes,Refining Cartels,Καρτέλ Διύλισης
 value-added tax,2,yes,Value-added Tax,Φόρος Προστιθέμενης Αξίας
 63-year-old woman,2,yes,63-year-old Woman,63χρονη Γυναίκα
+our country,2,yes,Our Country,Η Χώρα Μας
 prosperity for all,2,yes,Prosperity For All,Ευημερία Για Όλους
 national healthcare system,2,yes,National Healthcare System,Εθνικό Σύστημα Υγειονομικής Περίθαλψης
 108,2,yes,108,108
@@ -551,7 +554,6 @@ auctions,2,yes,Auctions,Δημοπρασίες
 petrol,2,yes,Petrol,Βενζίνη
 last year and a half,2,yes,Last Year And A Half,Τον Τελευταίο Ενάμιση Χρόνο
 supply chain cartels,2,yes,Supply Chain Cartels,Καρτέλ Της Αλυσίδας Εφοδιασμού
-public education,2,yes,Public Education,Δημόσια Εκπαίδευση
 giannitsa,2,yes,Giannitsa,Giannitsa
 third week,2,yes,Third Week,Τρίτη Εβδομάδα
 state budget,2,yes,State Budget,Κρατικός Προϋπολογισμός
@@ -571,7 +573,6 @@ water,2,yes,Water,Νερό
 electricity,2,yes,Electricity,Ηλεκτρική Ενέργεια
 collective labour agreements,2,yes,Collective Labour Agreements,Συλλογικές Συμβάσεις Εργασίας
 eleftherios venizelos,2,yes,Eleftherios Venizelos,Ελευθέριος Βενιζέλος
-two years,2,yes,Two Years,Δύο Χρόνια
 e-food,2,yes,E-food,E-food
 greek bourgeoisie,2,yes,Greek Bourgeoisie,Ελληνική Αστική Τάξη
 agia varvara,2,yes,Agia Varvara,Αγία Βαρβάρα
@@ -631,8 +632,6 @@ skaramagas,2,yes,Skaramagas,Skaramagas
 salamis,2,yes,Salamis,Σαλαμίνα
 working mother,2,yes,Working Mother,Εργαζόμενη Μητέρα
 katrougalos,2,yes,Katrougalos,Katrougalos
-health centers,2,yes,Health Centers,Κέντρα Υγείας
-personal doctor,2,yes,Personal Doctor,Γιατρός Του Προσωπικού
 doctor,2,yes,Doctor,Γιατρός
 constantine karamanlis,2,yes,Constantine Karamanlis,Κωνσταντίνος Καραμανλής
 we,2,yes,We,Εμείς
@@ -655,7 +654,6 @@ giannis,2,yes,Giannis,Giannis
 mylopotamos,2,yes,Mylopotamos,Μυλοπόταμος
 john,2,yes,John,John
 western greece,2,yes,Western Greece,Δυτική Ελλάδα
-pyrgos,2,yes,Pyrgos,Πύργος
 the few and the powerful,1,yes,The Few And The Powerful,Οι Λίγοι Και Οι Ισχυροί
 fiscal adventures,1,yes,Fiscal Adventures,Φορολογικές Περιπέτειες
 european institutions,1,yes,European Institutions,Ευρωπαϊκά Θεσμικά Όργανα
@@ -1492,6 +1490,7 @@ may this year,1,yes,May This Year,Μπορεί Φέτος
 first quarter of 2023,1,yes,First Quarter Of 2023,Πρώτο Τρίμηνο Του 2023
 winter,1,yes,Winter,Χειμώνας
 greek miracle of tourism,1,yes,Greek Miracle Of Tourism,Ελληνικό Θαύμα Του Τουρισμού
+two years,1,yes,Two Years,Δύο Χρόνια
 732.9 million,1,yes,732.9 Million,"732,9 Εκατομμύρια"
 real estate companies,1,yes,Real Estate Companies,Εταιρείες Ακινήτων
 property ownership firms,1,yes,Property Ownership Firms,Εταιρείες Ιδιοκτησίας Ακινήτων
@@ -2081,17 +2080,17 @@ member of parliament,1,yes,Member Of Parliament,Μέλος Του Κοινοβο
 michael bekiris,1,yes,Michael Bekiris,Michael Bekiris
 vassilis,1,yes,Vassilis,Vassilis
 950 euros,1,yes,950 Euros,950 Ευρώ
-road - karmaniola,1,yes,Road - Karmaniola,Δρόμος - Carmaniola
+your country,1,yes,Your Country,Τη Χώρα Σας
+the next decade,1,yes,The Next Decade,Η Επόμενη Δεκαετία
+pyrgos,1,yes,Pyrgos,Πύργος
 western europe,1,yes,Western Europe,Δυτική Ευρώπη
-patras university,1,yes,Patras University,Πανεπιστήμιο Της Πάτρας
 libraries,1,yes,Libraries,Βιβλιοθήκες
-centers of knowledge,1,yes,Centers Of Knowledge,Κέντρα Γνώσης
-excellence,1,yes,Excellence,Αριστεία
+knowledge,1,yes,Knowledge,Γνώση
 freedom of expression,1,yes,Freedom Of Expression,Ελευθερία Της Έκφρασης
+lawlessness,1,yes,Lawlessness,Ανομία
+delinquency,1,yes,Delinquency,Παραβατικότητα
 andravida,1,yes,Andravida,Andravida
-f-35 aircraft,1,yes,F-35 Aircraft,Αεροσκάφος F-35
-traffickers,1,yes,Traffickers,Διακινητές
+refugees,1,yes,Refugees,Πρόσφυγες
 east aegean islands,1,yes,East Aegean Islands,Νησιά Ανατολικού Αιγαίου
-major changes,1,yes,Major Changes,Σημαντικές Αλλαγές
 personal differentials,1,yes,Personal Differentials,Προσωπικές Διαφορές
 friday,1,yes,Friday,Παρασκευή
